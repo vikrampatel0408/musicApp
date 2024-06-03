@@ -37,22 +37,27 @@ MusicApp is a mobile application developed with Flutter that allows users to pla
 
 ## Screenshots
 Give the permission for allow access of storage and media files
-![Screenshot 1](screenshots/1.jpg)
+<img src="screenshots/1.jpg" alt="Screenshot 1" width="400">
 
 Home Page
-![Screenshot 2](screenshots/2.jpg)
+
+<img src="screenshots/2.jpg" alt="Screenshot 2" width="400">
 
 Create a playlist
-![Screenshot 3](screenshots/3.jpg)
+
+<img src="screenshots/3.jpg" alt="Screenshot 3" width="400">
 
 See all playlist
-![Screenshot 4](screenshots/4.jpg)
+
+<img src="screenshots/4.jpg" alt="Screenshot 4" width="400">
 
 Favourites Section
-![Screenshot 5](screenshots/5.jpg)
+
+<img src="screenshots/5.jpg" alt="Screenshot 5" width="400">
 
 Recent Section
-![Screenshot 6](screenshots/6.jpg)
+<img src="screenshots/6.jpg" alt="Screenshot 6" width="400">
 
 Now Playing 
-![Screenshot 7](screenshots/7.jpg)
+
+<img src="screenshots/7.jpg" alt="Screenshot 7" width="400">
