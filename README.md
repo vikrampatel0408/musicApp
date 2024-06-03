@@ -34,3 +34,25 @@ MusicApp is a mobile application developed with Flutter that allows users to pla
 2. Browse and select the music files you want to add to your playlists.
 3. Create playlists and add songs to them.
 4. Use the playback controls to enjoy your music.
+
+## Screenshots
+Give the permission for allow access of storage and media files
+![Screenshot 1](screenshots/1.jpg)
+
+Home Page
+![Screenshot 2](screenshots/2.jpg)
+
+Create a playlist
+![Screenshot 3](screenshots/3.jpg)
+
+See all playlist
+![Screenshot 4](screenshots/4.jpg)
+
+Favourites Section
+![Screenshot 5](screenshots/5.jpg)
+
+Recent Section
+![Screenshot 6](screenshots/6.jpg)
+
+Now Playing 
+![Screenshot 7](screenshots/7.jpg)
